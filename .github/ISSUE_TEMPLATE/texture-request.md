@@ -2,7 +2,7 @@
 name: Texture request
 about: 'Request a missing texture (Note: keep in mind this mod is in development and
   we know most missing textures)'
-title: "(Name of the missing texture)"
+title: Request
 labels: enhancement
 assignees: Yoru-Kitsune
 
@@ -17,9 +17,11 @@ Example: I am making a map and this texture isn't added yet.
 
 **Checklist** (List for the developer to check what is already added [Copy & Paste for more fields])
 
-[ ]
-[ ]
-[ ]
+Example:
+- [ ] Thorium
+- [ ] Arkycite Stone
+- [ ] Carbon Wall
+-here-
 
 ---
 

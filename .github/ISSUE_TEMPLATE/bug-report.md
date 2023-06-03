@@ -1,38 +1,35 @@
 ---
 name: Bug report
 about: Texture Glitches, Not Working Textures, Other Texture Errors
-title: Describe
+title: "(Name of the wrong-looking texture)"
 labels: bug
 assignees: Yoru-Kitsune
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug** (Describe what the bug is):
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Example: Texture glitches through other textures.
+-here-
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+---
+**Expected behavior** (Describe what you think it should look like):
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Example: The Texture should be the size of the matching block.
+-here-
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+---
+**Screenshots** (Take a picture of the wrong-looking texture):
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+-here-
 
-**Additional context**
-Add any other context about the problem here.
+---
+**Platform** (On what platform you played while the bug occured [Android/iOS/Mac/Windows/Linux]):
+
+-here-
+
+ ---
+**Mod Version** (On what release/version was the wrong-looking texture added):
+
+Example: v.0.0.1
+-here-

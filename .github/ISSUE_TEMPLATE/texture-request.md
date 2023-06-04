@@ -3,7 +3,7 @@ name: Texture request
 about: 'Request a missing texture (Note: keep in mind this mod is in development and
   we know most missing textures)'
 title: Request
-labels: enhancement
+labels: Request
 assignees: Yoru-Kitsune
 
 ---

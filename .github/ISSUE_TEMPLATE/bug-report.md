@@ -2,7 +2,7 @@
 name: Bug report
 about: Texture Glitches, Not Working Textures, Other Texture Errors
 title: "(Name of the wrong-looking texture)"
-labels: bug
+labels: Bug
 assignees: Yoru-Kitsune
 
 ---

@@ -1,8 +1,8 @@
 name: "sd-tp"
 displayName: "Simpledustry - Texturepack"
-subtitle: "Release: 1.2.1"
+subtitle: "Release: 1.2.2"
 description: "An under-development texture pack that simplyfies Mindustry\n\nRecommended Settings:\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
 author: "Yoru Kitsune"
-version: "1.2.1"
+version: "1.2.2"
 minGameVersion: "144.4"
 repo: Yoru-Kitsune/Simpledustry

@@ -1,7 +1,7 @@
 name: "sd-tp"
 displayName: "Simpledustry - Texturepack"
 subtitle: "Release: 1.2.1"
-description: "An under-development texture pack that simplyfies Mindustry\n\n(recommended to play with animated surfaces/shields turned off)"
+description: "An under-development texture pack that simplyfies Mindustry\n\nRecommended Settings:\nAnimated Surfaces: off\nAnimated Shields: off\nPixelate: off\nLinear Filtering: on"
 author: "Yoru Kitsune"
 version: "1.2.1"
 minGameVersion: "144.4"

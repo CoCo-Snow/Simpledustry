@@ -12,6 +12,6 @@ All textures are made by Yoru Kitsune.
 
 This mod was inspired by the Simplistic - Texturepack by EchoVespy, who unfortunatly stopped working on it.
 I got some bugs of the Simplistic mod fixed and I try to extend the mod, by completly redesigning the sprites.
-If there are sprites in this mod that look the exact same in the Simplistic mod, I didn't steal them... we just have the same goal and the same base textures.
+If there are sprites in this mod that look the exact same as in the Simplistic mod, I didn't steal them... we just have the same goal and the same base textures.
 
 If you want to help us making this big mod, please read the [Contibuting](https://github.com/Yoru-Kitsune/Simpledustry/blob/main/CONTRIBUTING.md) page

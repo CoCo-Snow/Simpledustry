@@ -1,0 +1,67 @@
+name: Texture Request
+description: Request a vanilla texture to be added to the mod
+title: "Texture Request: "
+labels: ["Request"]
+assignees:
+  - Yoru-Kitsune
+body:
+  - type: textarea
+    id: textures
+    attributes:
+      label: Textures
+      description: Please list all Textures that you want to be added.
+      placeholder: ex. Titanium conveyor, Stone, Darksand, Copper Wall
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: Expectations
+      description: What do you think it should look like or what we should change? (Optional)
+      placeholder: ex. Swap the 4-2 and the 4-3 frame of the animation.
+    validations:
+      required: falsecs
+    attributes:
+      label: Screenshots or Screenrecordings
+      description: Please attach screenshots or screenrecordings of the bug. (Please, do not write in this field)
+    validations:
+      required: true
+  - type: dropdown
+    id: platforms
+    attributes:
+      label: Platforms
+      description: On what platforms do you know the bug happens?
+      multiple: true
+      options:
+        - Android
+        - iOS
+        - Mac
+        - Windows
+        - Linux
+    validations:
+      required: true
+  - type: dropdown
+    id: release
+    attributes:
+      label: Mod Releases
+      description: On what mod releases is the bug?
+      multiple: true
+      options:
+        - v.1.0.0
+        - v.1.0.1
+        - v.1.1.0
+        - v.1.2.0
+        - v.1.2.1
+        - v.1.2.2
+        - v.1.3.0
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Submission
+      description:  By submitting this form you agree to following point.
+      options:
+        - label: I have searched open and closed issues for the same bug and I have not found anything that looks the same.
+          required: true
+         

@@ -1,31 +1,26 @@
 name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
+description: Report Texture Glitches, Not Working Textures, Other Texture Errors
+title: "Bug: "
+labels: ["Bug"]
 assignees:
-  - octocat
+  - Yoru-Kitsune
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
   - type: textarea
-    id: what-happened
+    id: bug-description
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Bug
+      description: Please describe what happens in the bug with the texture name.
+      placeholder: ex. Titainum conveyor animation is not in correct order.
     validations:
       required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: Expectations
+      description: What do you think it should look like or what we should change? (Optional)
+      placeholder: ex. Swap the 4-3 and the 4-4 frame of the animation.
+    validations:
+      required: false
   - type: dropdown
     id: version
     attributes:

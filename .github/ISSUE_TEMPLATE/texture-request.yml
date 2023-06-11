@@ -14,54 +14,18 @@ body:
     validations:
       required: true
   - type: textarea
-    id: expectation
+    id: concepts
     attributes:
-      label: Expectations
-      description: What do you think it should look like or what we should change? (Optional)
-      placeholder: ex. Swap the 4-2 and the 4-3 frame of the animation.
+      label: Concepts or Ideas
+      description: You can attach textures or write ideas how it could look like. (Optional)
+      placeholder: If we are adding your texture we will contact you on this issue, so please check at least every 2 days. We will talk about further details on discord, so please only commit if you are owning an discord account.
     validations:
-      required: falsecs
-    attributes:
-      label: Screenshots or Screenrecordings
-      description: Please attach screenshots or screenrecordings of the bug. (Please, do not write in this field)
-    validations:
-      required: true
-  - type: dropdown
-    id: platforms
-    attributes:
-      label: Platforms
-      description: On what platforms do you know the bug happens?
-      multiple: true
-      options:
-        - Android
-        - iOS
-        - Mac
-        - Windows
-        - Linux
-    validations:
-      required: true
-  - type: dropdown
-    id: release
-    attributes:
-      label: Mod Releases
-      description: On what mod releases is the bug?
-      multiple: true
-      options:
-        - v.1.0.0
-        - v.1.0.1
-        - v.1.1.0
-        - v.1.2.0
-        - v.1.2.1
-        - v.1.2.2
-        - v.1.3.0
-    validations:
-      required: true
+      required: false
   - type: checkboxes
     id: terms
     attributes:
       label: Submission
       description:  By submitting this form you agree to following point.
       options:
-        - label: I have searched open and closed issues for the same bug and I have not found anything that looks the same.
+        - label: I have searched open issues for the same texture and I have not found anything that contains the textures mentioned above.
           required: true
-         

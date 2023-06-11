@@ -6,7 +6,7 @@ assignees:
   - Yoru-Kitsune
 body:
   - type: textarea
-    id: bug-description
+    id: bug-desc
     attributes:
       label: Bug
       description: Please describe what happens in the bug with the texture name.
@@ -21,37 +21,49 @@ body:
       placeholder: ex. Swap the 4-3 and the 4-4 frame of the animation.
     validations:
       required: false
-  - type: dropdown
-    id: version
+  - type: textarea
+    id: screenrecs
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Screenshots or Screenrecordings
+      description: Please attach screenshots or screenrecordings of the bug. (Please, do not write in this field)
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: platforms
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: Platforms
+      description: On what platforms do you know the bug happens?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-  - type: textarea
-    id: logs
+        - Android
+        - iOS
+        - Mac
+        - Windows
+        - Linux
+    validations:
+      required: true
+  - type: dropdown
+    id: release
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Mod Releases
+      description: On what mod releases is the bug?
+      multiple: true
+      options:
+        - v.1.0.0
+        - v.1.0.1
+        - v.1.1.0
+        - v.1.2.0
+        - v.1.2.1
+        - v.1.2.2
+        - v.1.3.0
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Submission
+      description:  By submitting this form you agree to following point:
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I have searched open and closed issues for the same bug and I have not found anything that looks the same.
           required: true
+         

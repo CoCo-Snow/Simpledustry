@@ -5,7 +5,7 @@ labels: ["Bug"]
 assignees:
   - Yoru-Kitsune
 body:
-  - type: textarea
+  - type: input
     id: bug-desc
     attributes:
       label: Bug
@@ -13,7 +13,7 @@ body:
       placeholder: ex. Titainum conveyor animation is not in correct order.
     validations:
       required: true
-  - type: textarea
+  - type: Input
     id: expectation
     attributes:
       label: Expectations

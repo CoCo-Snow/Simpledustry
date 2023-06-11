@@ -13,7 +13,7 @@ body:
       placeholder: ex. Titainum conveyor animation is not in correct order.
     validations:
       required: true
-  - type: Input
+  - type: input
     id: expectation
     attributes:
       label: Expectations

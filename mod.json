@@ -6,3 +6,4 @@ author: "Yoru Kitsune"
 version: "1.3.0"
 minGameVersion: "144.4"
 repo: "Yoru-Kitsune/Simpledustry"
+hidden: true

@@ -62,7 +62,7 @@ body:
     id: terms
     attributes:
       label: Submission
-      description:  By submitting this form you agree to following point:
+      description:  By submitting this form you agree to following point.
       options:
         - label: I have searched open and closed issues for the same bug and I have not found anything that looks the same.
           required: true

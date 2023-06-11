@@ -18,7 +18,7 @@ body:
     attributes:
       label: Expectations
       description: What do you think it should look like or what we should change? (Optional)
-      placeholder: ex. Swap the 4-3 and the 4-4 frame of the animation.
+      placeholder: ex. Swap the 4-2 and the 4-3 frame of the animation.
     validations:
       required: false
   - type: textarea

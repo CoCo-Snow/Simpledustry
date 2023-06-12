@@ -9,7 +9,7 @@ body:
     id: textures
     attributes:
       label: Textures
-      description: Please list all Textures that you want to be added. (With Image)
+      description: Please list all Textures that you want to be added. Please use checkboxes (use: "- [ ] *") and if you don't know the **exact** name, please use images as addition.
       placeholder: ex. Titanium conveyor, Stone, Darksand, Copper Wall
     validations:
       required: true

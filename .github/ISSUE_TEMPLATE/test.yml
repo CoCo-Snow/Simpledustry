@@ -18,12 +18,13 @@ body:
     validations:
       required: true
   - type: input
-    id: build
+    id: contact
     attributes:
-      description: The build number under the title in the main menu.
-      placeholder: "LATEST" IS NOT A VERSION, I NEED THE EXACT BUILD NUMBER OF YOUR GAME.
+      label: lslxl
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
     validations:
-      required: true
+      required: false
   - type: textarea
     id: issue
     attributes:

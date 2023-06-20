@@ -20,7 +20,7 @@ body:
   - type: input
     id: build
     attributes:
-      label: Build
+      label: "Build"
       description: The build number under the title in the main menu.
       placeholder: "LATEST" IS NOT A VERSION, I NEED THE EXACT BUILD NUMBER OF YOUR GAME.
     validations:

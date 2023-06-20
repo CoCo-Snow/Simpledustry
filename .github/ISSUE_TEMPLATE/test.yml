@@ -18,9 +18,9 @@ body:
     validations:
       required: true
   - type: input
-    id: contact
+    id: build
     attributes:
-      label: lslxl
+      label: Build
       description: How can we get in touch with you if we need more info?
       placeholder: ex. email@example.com
     validations:

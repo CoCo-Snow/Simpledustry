@@ -21,8 +21,8 @@ body:
     id: build
     attributes:
       label: Build
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      description: The build number under the title in the main menu.
+      placeholder: "LATEST" IS NOT A VERSION, I NEED THE EXACT BUILD NUMBER OF YOUR GAME.
     validations:
       required: false
   - type: textarea

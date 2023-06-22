@@ -2,7 +2,7 @@
 
 A Texture Pack that simplifies Mindustry
 
-![icon](https://github.com/Yoru-Kitsune/Simpledustry/assets/108625654/a4992fdc-a06a-41d2-bfc5-30c615d0b536)
+![icon](https://github.com/Yoru-Kitsune/Simpledustry/assets/108625654/d8bd4b34-dfa6-4af7-bc38-dfd0a9258f71)
 
 ---
 

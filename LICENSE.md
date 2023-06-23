@@ -1,6 +1,6 @@
 # License
 
-All sprites in this mod were made and are owned by 夜狐
+All sprites in this mod were made and are owned by Yoru-Kitsune
 
 You are not allowed to use these sprites. They were made for this mod and are not allowed to be used in other Mindustry mods.
 Exceptions: Useres I allowed to use these spites to be used in other mods or on other websites.

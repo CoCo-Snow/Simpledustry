@@ -17,3 +17,5 @@ If there are sprites in this mod that look the exact same as in the Simplistic m
 If you want to help making this big mod, please read the [Contibuting](https://github.com/Yoru-Kitsune/Simpledustry/blob/main/CONTRIBUTING.md) page.
 
 If you want also the UI elements made for this mod, download the [ui-pack](https://github.com/Yoru-Kitsune/Simpledustry-ui-pack).
+
+All textures redesigned or added after the 16th of july 2023 now have the fixed lighting. A small detail but it is now a bit more vanilla-likely.

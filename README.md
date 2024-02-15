@@ -18,7 +18,7 @@ All textures redesigned or added after the 16th of july 2023 have fixed shading.
 
 ---
 
-(Currently the V2 is actively being worked on with many new and remade textures for better understanding and less rushed textures)
+Currently the V2 is actively being worked on with many new and remade textures for better understanding and less rushed textures
 
 A little sneak peak:
 

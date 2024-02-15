@@ -16,7 +16,7 @@ If you want the UI elements made for this mod too, download the [ui-pack](https:
 
 All textures redesigned or added after the 16th of july 2023 have fixed shading. Small detail that makes it a bit more vanilla-like.
 
-
+---
 
 (Currently the V2 is actively being worked on with many new and remade textures for better understanding and less rushed textures)
 
